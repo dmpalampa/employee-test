@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\Dell\source\repos\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Dell\source\repos\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Dell\source\repos\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Dell\source\repos\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Dell\source\repos\DataAccess\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\source\repos\DataAccess\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\Dell\source\repos\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
