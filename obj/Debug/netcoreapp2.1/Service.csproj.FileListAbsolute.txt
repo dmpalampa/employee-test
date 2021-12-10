@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Service\obj\Debug\netcoreapp2.1\Service.dll
+C:\Users\Dell\source\repos\Service\obj\Debug\netcoreapp2.1\Service.pdb
+C:\Users\Dell\source\repos\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+C:\Users\Dell\source\repos\Service\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\Dell\source\repos\Service\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\Dell\source\repos\Service\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Dell\source\repos\Service\bin\Debug\netcoreapp2.1\Repo.dll
+C:\Users\Dell\source\repos\Service\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Dell\source\repos\Service\bin\Debug\netcoreapp2.1\Repo.pdb
+C:\Users\Dell\source\repos\Service\obj\Debug\netcoreapp2.1\Service.csproj.CopyComplete
